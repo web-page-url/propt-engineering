@@ -196,6 +196,7 @@ export default function Learning2Page() {
           </div>
         </section>
 
+
         <section className="mb-8">
           <h2 className="text-lg font-bold mb-2 text-indigo-700 dark:text-indigo-300">Wrap-Up: You’re a Prompt Engineering Pro!</h2>
           <p className="mb-2">Congrats—you’ve unlocked the secrets of advanced prompt engineering! You can now use templates to work smarter, refine prompts like a scientist, and wield techniques like chain-of-thought to tackle any task. In Module 4, we’ll get hands-on with practical exercises to put your skills to the test. Get ready to shine!</p>
