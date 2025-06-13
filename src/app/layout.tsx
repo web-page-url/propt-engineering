@@ -84,6 +84,9 @@ export default function RootLayout({
       >
         <Navbar />
         {children}
+        <footer className="w-full text-center py-6 mt-12 text-gray-500 dark:text-gray-400 text-sm border-t border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900">
+          Created by Anubhav
+        </footer>
       </body>
     </html>
   );
